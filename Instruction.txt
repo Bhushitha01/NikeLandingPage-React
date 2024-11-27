@@ -1,0 +1,16 @@
+install vite 
+npm create vite@latest
+
+src folder - main.jsx,app,jsx,index.css,app.css 
+
+In main.jsx 
+-Import React,ReactDOM,App,index.css
+-create root in this 
+
+Running project: 
+npm install 
+cd vite-project 
+npm run dev
+npm install -d vite 
+index.html
+
